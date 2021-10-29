@@ -19,4 +19,8 @@
 		padding: 15px;
         margin: 15px 80px;
 	}
+
+    div{
+        background-color: blueviolet;
+    }
 </style>
