@@ -8,7 +8,7 @@
 	h1 {
 		background-color: lightskyblue;
 		text-align: center;
-		padding: 5px;
+		padding: 3px;
 		margin: 10px;
 	}
 </style>
