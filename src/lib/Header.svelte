@@ -6,7 +6,7 @@
 
 <style>
 	h1 {
-		background-color: C490E4;
+		background-color: #C490E4;
 		text-align: center;
 		padding: 40px;
 	}
