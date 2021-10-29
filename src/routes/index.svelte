@@ -40,4 +40,8 @@
 
 <Footer gitHub="https://github.com/chongks0611/" />
 
-
+<style>
+	script{
+		background-color: blue;
+	}
+</style>
