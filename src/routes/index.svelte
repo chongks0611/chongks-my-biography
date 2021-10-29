@@ -40,8 +40,4 @@
 
 <Footer gitHub="https://github.com/chongks0611/" />
 
-<style>
-	Header {
-		background-color: lightskyblue;
-	}
-</style>
+
