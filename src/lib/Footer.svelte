@@ -4,7 +4,7 @@
 
 <div>
 <a href = {gitHub}> GitHub repository</a>
-<p>My Biography $copy All rights reserved.</p>
+<p>My Biography &copy; All rights reserved.</p>
 </div>
 
 <style>
