@@ -16,6 +16,6 @@
 	.card {
 		background-color: #F9F9F9;
 		text-align: center;
-		padding: 5px;
+		padding: 15px;
 	}
 </style>
