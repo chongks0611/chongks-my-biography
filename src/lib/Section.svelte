@@ -14,13 +14,10 @@
 
 <style>
 	.card {
-		background-color: #F9F9F9;
+		background-color: #F6C6EA;
 		text-align: center;
 		padding: 15px;
         margin: 15px 80px;
 	}
 
-    div{
-        background-color: blueviolet;
-    }
 </style>
