@@ -9,6 +9,6 @@
 		background-color: lightskyblue;
 		text-align: center;
 		padding: 5px;
-		margin: 10px;
+		margin: 20px;
 	}
 </style>
