@@ -8,4 +8,11 @@
 	h1 {
 		background-color: lightskyblue;
 	}
+
+	.card {
+		padding: 2px 16px;
+		margin: 12px 4px;
+		border-radius: 5px;
+		text-align: center;
+	}
 </style>
