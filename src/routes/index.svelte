@@ -39,3 +39,4 @@
 <Personality {...myPersonality} />
 
 <Footer gitHub="https://github.com/chongks0611/" />
+
